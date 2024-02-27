@@ -1,4 +1,4 @@
-# Simple oython Flask Dockerized Application #
+# Simple python Flask Dockerized Application #
 
 Build the image using the following command
 
