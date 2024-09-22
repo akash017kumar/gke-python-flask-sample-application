@@ -16,3 +16,5 @@ The application will be accessible at http:127.0.0.1:5000 or if you are using bo
 
 committing from the testing branch
 2nd commit to the testing branch. 
+3rd commit to check the ammend comand 
+
